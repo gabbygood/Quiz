@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 1,
     question: "Sino pipiliin ni maam?",
-    answer: "Yes",
+    answer: "Gab",
     options: [
       "Gab",
       "Ken",
