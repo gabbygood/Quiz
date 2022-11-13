@@ -2,11 +2,11 @@
 let questions = [
     {
     numb: 1,
-    question: "Ready namo sa midterm exam?",
+    question: "Sino pipiliin ni maam?",
     answer: "Yes",
     options: [
-      "Bagsak nako",
-      "Yes",
+      "Gab",
+      "Ken",
       "No",
       "None of the above"
     ]
